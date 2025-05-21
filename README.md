@@ -43,8 +43,11 @@ https://raw.githubusercontent.com/duhimcoding/clinic-frontend/main/screenshots/S
 
 ## 📘 Documentation
 
-- [System Design: Small Medical Clinic (PDF)](./documentation/SystemDesign.pdf)
-- [Domiciliary Clinic System Analysis (PDF)](./documentation/DomiciliaryAnalysis.pdf)
+-System Design: Small Medical Clinic
+[System Design: Small Medical Clinic (PDF)](https://github.com/duhimcoding/clinic-frontend/raw/main/documentation/System%20Design%20Documentation:%20Small%20Medical%20Clinic%20Software%20System.pdf)
+
+Domiciliary Clinic System Analysis
+[Domiciliary Clinic System Analysis (PDF)](https://github.com/duhimcoding/clinic-frontend/raw/main/documentation/Domiciliary%20Clinic%20System%20Analysis%20Documentation.pdf)
 
 These documents detail:
 - Architecture & ERD
