@@ -17,25 +17,27 @@ A modern full-stack clinic management platform designed to streamline healthcare
 ---
 📸 Image URLs
 Login Screen
-https://raw.githubusercontent.com/duhimcoding/clinic-frontend/main/screenshots/Screenshot-from-2025-05-21-16-14-37.png
+https://raw.githubusercontent.com/duhimcoding/clinic-frontend/main/screenshots/Screenshot%20from%202025-05-21%2016-14-37.png
 
 Doctor Dashboard
-https://raw.githubusercontent.com/duhimcoding/clinic-frontend/main/screenshots/Screenshot-from-2025-05-21-16-15-05.png
+https://raw.githubusercontent.com/duhimcoding/clinic-frontend/main/screenshots/Screenshot%20from%202025-05-21%2016-15-05.png
 
 Patient Portal
-https://raw.githubusercontent.com/duhimcoding/clinic-frontend/main/screenshots/Screenshot-from-2025-05-21-16-15-19.png
+https://raw.githubusercontent.com/duhimcoding/clinic-frontend/main/screenshots/Screenshot%20from%202025-05-21%2016-15-19.png
 
 Admin Dashboard – Staff Scheduling
-https://raw.githubusercontent.com/duhimcoding/clinic-frontend/main/screenshots/Screenshot-from-2025-05-21-16-34-23.png
+https://raw.githubusercontent.com/duhimcoding/clinic-frontend/main/screenshots/Screenshot%20from%202025-05-21%2016-34-23.png
 
 Admin Dashboard – Room Management
-https://raw.githubusercontent.com/duhimcoding/clinic-frontend/main/screenshots/Screenshot-from-2025-05-21-16-34-28.png
+https://raw.githubusercontent.com/duhimcoding/clinic-frontend/main/screenshots/Screenshot%20from%202025-05-21%2016-34-28.png
 
 Admin Dashboard – Reports
-https://raw.githubusercontent.com/duhimcoding/clinic-frontend/main/screenshots/Screenshot-from-2025-05-21-16-34-32.png
+https://raw.githubusercontent.com/duhimcoding/clinic-frontend/main/screenshots/Screenshot%20from%202025-05-21%2016-34-32.png
 
-Doctor's Schedule & EMR Access
-https://raw.githubusercontent.com/duhimcoding/clinic-frontend/main/screenshots/Screenshot-from-2025-05-21-16-35-08.png
+Doctor’s Schedule & EMR Access
+https://raw.githubusercontent.com/duhimcoding/clinic-frontend/main/screenshots/Screenshot%20from%202025-05-21%2016-35-08.png
+
+
 
 ---
 
